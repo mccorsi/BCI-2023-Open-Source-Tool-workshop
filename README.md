@@ -6,11 +6,11 @@
 Workshop W5 Session 1 - Wednesday, June 7, 9:30am – 12:30pm (Sonian Forest Time) 
 
 ## Organizers:
-- Sylvain Chevallier: Full Professor, University Paris-Saclay, A&O team, France 
-- Pierre Clisson: Independent Scientist
-- Arthur Desbois: Research Engineer, Inria Paris, Aramis project-team, Paris Brain Institute
-- Pedro L. C. Rodrigues: Research Scientist, Inria Grenoble, Statify project-team, France
-- Marie-Constance Corsi: Inria Research Scientist, Inria Paris, Aramis project-team, Paris Brain Institute
+- [Sylvain Chevallier](https://sylvchev.github.io/): Full Professor, University Paris-Saclay, A&O team, France 
+- [Pierre Clisson](https://clisson.com/): Independent Scientist
+- [Arthur Desbois](https://www.linkedin.com/in/arthur-desbois-801a9313a/?originalSubdomain=fr): Research Engineer, Inria Paris, Aramis project-team, Paris Brain Institute
+- [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/): Research Scientist, Inria Grenoble, Statify project-team, France
+- [Marie-Constance Corsi](https://marieconstance-corsi.netlify.app/): Inria Research Scientist, Inria Paris, Aramis project-team, Paris Brain Institute
 
 
 ## Q&A
