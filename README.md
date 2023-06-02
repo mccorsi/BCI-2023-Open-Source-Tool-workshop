@@ -53,8 +53,9 @@ Anyone interested in practical BCIs: neuroscientists, research engineers, develo
 *High-speed train(ing): An efficient trial-and-error oriented framework for feature selection in BCI, with HappyFeat*, by A. Desbois (20' talk + 5' Q&A)
 
 ### Part 3, Developing new experimental setups
-*Online BCIs with Timeflux*, by P. Clisson (10' talk + 5' Q&A)
-*It’s about time: practical considerations for data and stimulus synchronization*, by P. Clisson (10' demo + 5' Q&A)
+*Online BCIs with Timeflux*, by P. Clisson (10' talk)
+
+*Commented use case: a cVEP BCI*, by P. Clisson (10' demo + 5' Q&A)
 
 ### Part 4, Discussions
 Practical discussion on participants use cases based on the Q&A document.
