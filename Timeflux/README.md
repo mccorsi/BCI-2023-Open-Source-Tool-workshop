@@ -4,10 +4,12 @@
 
 Workshop W5 Session 1 - Wednesday, June 7, 9:30am – 12:30pm (Sonian Forest Time)
 
+![Timeflux logo](images/logo.png)
+
 ## Resources
 
-- Timeflux [website](https://timeflux.io) and [code](https://github.com/timeflux/)
-- Open-source [demos](https://github.com/timeflux/demos) 
+- Timeflux [website](https://timeflux.io) and [code](https://github.com/timeflux/).
+- Open-source [demos](https://github.com/timeflux/demos).
 
 ## References
 
