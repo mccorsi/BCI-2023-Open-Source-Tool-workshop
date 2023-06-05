@@ -4,7 +4,7 @@
 
 Workshop W5 Session 1 - Wednesday, June 7, 9:30am – 12:30pm (Sonian Forest Time)
 
-![Timeflux logo](images/logo.png | width=200)
+![Timeflux logo](images/logo.png | width=200px)
 
 ## Resources
 
