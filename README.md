@@ -1,4 +1,5 @@
-# BCI-2023-Open-Source-Tool-workshop
+# W5 - Offline and online tools for real-world BCI applications![Uploading image.png…]()
+
 
 [2023 International BCI meeting](https://bcisociety.org/bci-meeting/)
 
