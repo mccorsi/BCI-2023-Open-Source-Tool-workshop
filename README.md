@@ -16,7 +16,7 @@ Workshop W5 Session 1 - Wednesday, June 7, 9:30am – 12:30pm (Sonian Forest Tim
 ## Q&A
 Here is a document that gathers all the questions and their answer at the workshop following this link. Moreover, you can directly comment the document if you want to ask more questions and add precisions.
 
-Q&A link: **TODO**
+Q&A link: https://tinyurl.com/4nbrbtbh
 
 
 ## Abstract
