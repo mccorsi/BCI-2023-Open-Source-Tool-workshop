@@ -1,4 +1,4 @@
-# W5 - Offline and online tools for real-world BCI applications![Uploading image.png…]()
+# W5 - Offline and online tools for real-world BCI applications
 
 
 [2023 International BCI meeting](https://bcisociety.org/bci-meeting/)
