@@ -9,8 +9,7 @@ Workshop W5 Session 1 - Wednesday, June 7, 9:30am – 12:30pm (Sonian Forest Tim
 
 All ressources are available on [MOABB minischool](https://github.com/sylvchev/moabb_minischool)
 
--
-[talk](https://github.com/sylvchev/moabb_minischool/blob/main/talk/moabb.pdf)
+- [talk](https://github.com/sylvchev/moabb_minischool/blob/main/talk/moabb.pdf)
 - [notebooks](https://github.com/sylvchev/moabb_minischool/tree/main/notebooks)
 
 ## References
