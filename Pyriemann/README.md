@@ -19,9 +19,13 @@ them using the Riemannian geometry of SPD matrices.
 ## Take-home messages
 - Using methods from Riemannian geometry for BCI is easy with `pyriemann`
 - `pyriemann` is built around `scikit-learn` and benefits from all of its tools
-- 
+- We're always happy to have new **contributions** from the community!
 
 ## Resources
+- The slides of my talk at the BCI meeting are available [[here](https://github.com/mccorsi/BCI-2023-Open-Source-Tool-workshop/blob/main/Pyriemann/pyRiemann-slides.pdf)]
+- A video recording is available [[here](https://youtu.be/osclkBPcmlk)]
+- Several pieces of **code** used for my presentation are available in the 
+`\code` folder
 
 ## References
 `pyriemann` website: [https://pyriemann.readthedocs.io/en/latest/]
