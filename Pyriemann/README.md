@@ -25,8 +25,7 @@ them using the Riemannian geometry of SPD matrices.
 - The slides of my talk at the BCI meeting are available [[here](https://github.com/mccorsi/BCI-2023-Open-Source-Tool-workshop/blob/main/Pyriemann/pyRiemann-slides.pdf)]
 - A video recording is available [[here](https://youtu.be/osclkBPcmlk)]
 - Several pieces of **code** used for my presentation are available in the 
-`\code` folder
+`/code` folder
 
 ## References
-`pyriemann` website: [https://pyriemann.readthedocs.io/en/latest/]
-(https://pyriemann.readthedocs.io/en/latest/)
+`pyriemann` website: https://pyriemann.readthedocs.io/en/latest/
